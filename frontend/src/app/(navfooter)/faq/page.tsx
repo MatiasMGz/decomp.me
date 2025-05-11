@@ -56,7 +56,7 @@ export default function Page() {
                 assembly upon compilation.
             </p>
             <p className="my-4">
-                This is a time- and labor-intensive process. To produce matching
+                This is a time and labor-intensive process. To produce matching
                 assembly, one usually needs the original compiler, assembler,
                 and flags that were used to produce the original binary. Most
                 importantly, the code has to be written in such a way that the
